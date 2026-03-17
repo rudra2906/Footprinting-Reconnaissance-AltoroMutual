@@ -77,7 +77,7 @@ theHarvester -d testfire.net -b all
 
 ### 🌍 IP Address
 
-* Example: 65.61.137.117
+* 65.61.137.117
 
 ### 🔗 Subdomains Discovered
 
